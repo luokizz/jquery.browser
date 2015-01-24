@@ -11,6 +11,7 @@
 ## 安装
  
  需要安装包管理器[bower](http://bower.io/)
+ 
  bower install https://github.com/letcheng/jquery.browser.git
 
 ## 用法
